@@ -73,5 +73,5 @@ and domain operations.
 | Bulk Users (100+) | ✅ Complete |
 | Domain Join | ✅ Complete |
 | Group Policy | ✅ Complete |
-| Kali Recon | 🔄 In Progress |
-| Documentation | 🔄 In Progress |
+| Kali Recon | ✅ Complete |
+| Documentation | ✅ Complete |
